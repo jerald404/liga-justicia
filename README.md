@@ -7,3 +7,8 @@ No pueden hacer nada
 
 ## Notas
 Pueden hacer lo que quieran...
+
+# Tabla
+|hola|chao|
+|---|---|
+|123|456|
